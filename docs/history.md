@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 雑学/歴史
 ---
 

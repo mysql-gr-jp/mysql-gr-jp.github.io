@@ -1,4 +1,5 @@
 ---
+layout: page
 title: MySQL書籍
 ---
 
